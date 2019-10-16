@@ -1,24 +1,24 @@
-# Hosting Resources
+# Hosting
 
-* General Hosting
+- General Hosting
 
-* Heroku
+- Heroku
 
-  * [Heroku Deployment](https://github.com/DevMountain/deployment-heroku)
-  * [DevMountain Video Walkthrough](https://vimeo.com/154365993)
+  - [Heroku Deployment](https://github.com/DevMountain/deployment-heroku)
+  - [DevMountain Video Walkthrough](https://vimeo.com/154365993)
 
-* Digital Ocean
+- Digital Ocean
 
-  * [Hosting on DO - A How To Guide](https://github.com/DevMountain/Hosting-Digital-Ocean)
-  * [DevMountain Video Walkthrough](https://vimeo.com/154365993)
-  * [Hosting Single or Multiple Sites on DO](https://www.robinwieruch.de/deploy-applications-digital-ocean/)
-  * [Chris Foster - Hosting DO & Nginx](https://www.youtube.com/watch?v=cK6kB7dMVfA)
+  - [Hosting on DO - A How To Guide](https://github.com/DevMountain/Hosting-Digital-Ocean)
+  - [DevMountain Video Walkthrough](https://vimeo.com/154365993)
+  - [Hosting Single or Multiple Sites on DO](https://www.robinwieruch.de/deploy-applications-digital-ocean/)
+  - [Chris Foster - Hosting DO & Nginx](https://www.youtube.com/watch?v=cK6kB7dMVfA)
 
-* AWS
+- AWS
 
-  * [Deploy Node and React App to AWS](https://medium.com/@adhasmana/how-to-quickly-deploy-react-and-node-app-on-aws-80e5dfe7d86e)
+  - [Deploy Node and React App to AWS](https://medium.com/@adhasmana/how-to-quickly-deploy-react-and-node-app-on-aws-80e5dfe7d86e)
 
-* Zeit
+- Zeit
 
-  * [Hosting a React App on Zeit](https://github.com/DevMountain/Hosting-React-Zeit)
-  * [Zeit Docs](https://zeit.co/docs)
+  - [Hosting a React App on Zeit](https://github.com/DevMountain/Hosting-React-Zeit)
+  - [Zeit Docs](https://zeit.co/docs)

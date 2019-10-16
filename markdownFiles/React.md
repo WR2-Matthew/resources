@@ -1,4 +1,4 @@
-# REACT Resources
+# React
 
 [React Documentation](https://www.reactjs.org)
 

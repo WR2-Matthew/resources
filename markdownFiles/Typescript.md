@@ -1,5 +1,5 @@
-# TypeScript Resources
+# TypeScript
 
-* Beginner
+- Beginner
 
-  * [TypeScript Handbook](https://github.com/Microsoft/TypeScript-Handbook)
+  - [TypeScript Handbook](https://github.com/Microsoft/TypeScript-Handbook)

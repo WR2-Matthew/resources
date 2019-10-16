@@ -1,4 +1,4 @@
-# Angular Resources
+# Angular
 
 - Angular (2+)
 

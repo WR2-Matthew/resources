@@ -1,6 +1,6 @@
-# AR/VR Resources
+# AR/VR
 
-* Virtual Reality Libraries
+- Virtual Reality Libraries
 
-  * [ReactVR](https://facebook.github.io/react-vr/)
-  * [A-Frame](https://aframe.io/)
+  - [ReactVR](https://facebook.github.io/react-vr/)
+  - [A-Frame](https://aframe.io/)
